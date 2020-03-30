@@ -25,3 +25,5 @@ hs_err_pid*
 /BuildAutomationTool/Ant/AnotherGrep/build/
 /BuildAutomationTool/Ant/AnotherGrep/dist/
 /BuildAutomationTool/Maven/TermsAndConditions/target/
+/CreateNewJavaLibrary/SimpleMath/target/
+/CreateNewJavaLibrary/Calculator/target/
